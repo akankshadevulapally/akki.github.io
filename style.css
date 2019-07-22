@@ -1,0 +1,8 @@
+html{
+    scroll-behavior: smooth;
+}
+h1{
+    background-color: darkgrey;
+    font-size: 50%;
+    font-style: italic;
+}
