@@ -78,7 +78,7 @@ div.container a
   font-size: 9px;
   color: #2B3856;
   text-align: center;
-   position: fixed;
+   position: relative;
    left: 0;
    bottom: 0;
    height:80px;
